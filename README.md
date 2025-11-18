@@ -1,6 +1,6 @@
 <h1 align="center">CENSU-X</h1>
 <p align="center">
-    <img alt="CENSU" src="https://imgur.com/a/ls3cKeL">
+    <img alt="CENSU" src="https://imgur.com/a/ls3cKeL.png">
 </p>
 
 ## 🚀 Session ID Generator
