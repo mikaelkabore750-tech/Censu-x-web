@@ -1,3 +1,8 @@
+<h1 align="center">CENSU-X</h1>
+<p align="center">
+    <img alt="CENSU" src="https://imgur.com/a/ls3cKeL">
+</p>
+
 ## 🚀 Session ID Generator
 mikael-dev Bots 🤖
 
